@@ -1,1 +1,5 @@
-Hallo, my name is Mike
+Countdown timer
+Need a device to count down time;
+Interface details: The start and stop button;Time salection window;
+Data type ( minutes. hours,seconds); 
+Wnen the time runs out. the time indicator should change color to red and the alarm will sound;
